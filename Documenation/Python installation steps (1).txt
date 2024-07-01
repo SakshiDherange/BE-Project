@@ -1,0 +1,36 @@
+
+Note that: Minimum 8 GB RAM is required for installing all data.
+
+
+Anaconda Navigator Installtion step:
+1. Download from - https://www.anaconda.com/products/individual
+2.Follow the steps:
+https://www.datacamp.com/community/tutorials/installing-anaconda-windows
+In that step 4- click on all users
+
+
+
+Install Spyder in Anaconda Navigator for our Environments:
+1. After you have installed Anaconda, Open it then 
+2. On the Navigator ,Click on Environments -
+then click on create on bottom page and give the name of environments and click to create
+3.On the Navigator Home tab, click the Spyder icon for install
+4. Launch it.
+
+
+30% code:
+1.Download 30 % code from mail
+2.then copy it and paste into E or D drive and Extract this zip folder there
+3.Open spyder from anaconda navigator with our environments
+4.Then Open 30% code in spyder
+5.Run it.
+6.It shows error, No module find...so that time we have to install libraries.
+ 
+
+Library install in Anaconda navigator
+we have to refer this link library install in Anaconda navigator-
+https://www.tutorialspoint.com/add-packages-to-anaconda-environment-in-python
+1. opencv
+2. pillow
+
+ 
